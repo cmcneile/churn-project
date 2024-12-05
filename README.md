@@ -28,7 +28,7 @@ work through the following online tutorial.
 ## Churn datasets
 
 * [Credit Card Churn Prediction](https://www.kaggle.com/datasets/anwarsan/credit-card-bank-churn)
-* [Bank customer churn] (https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
+* [Bank customer churn](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
 
 ##  Final part of the project
 
