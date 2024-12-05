@@ -2,8 +2,9 @@
 
 Customer churn occurs when a customer leaves a company
 by not paying for a subscription. It is cheaper for a company
-to
+to keep customers than to gain new customer.
 
+The project can be done using R or python.
 
 ## Overview of the project
 
@@ -28,6 +29,11 @@ work through the following online tutorial.
 
 * [Credit Card Churn Prediction](https://www.kaggle.com/datasets/anwarsan/credit-card-bank-churn)
 * [Bank customer churn] (https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
+
+##  Final part of the project
+
+* Explainability
+* Errors on the classifiers
 
 ##  Background reading on machine learning
 
