@@ -7,11 +7,11 @@ to
 
 ## Overview of the project
 
-Most data science projecst follow a standard pattern.
+Most data science projects follow a standard pattern.
 
 * selection of the data set. There are some possible options below.
-* exploratory data visualisations
-* building the classifier for churn prediction. This includes tuning the hyperparameters of the classifier. If the classes are imbalanced, then spacialised
+* exploratory data visualizations
+* building the classifier for churn prediction. This includes tuning the hyper-parameters of the classifier. If the classes are imbalanced, then specialized
 techniques need
 * evaluate the classifier with metrics, such as the confusion matrix, accuracy, precision and recall.
 * compare the results to the results in the literature
@@ -19,7 +19,7 @@ techniques need
 ## Some tutorial about building classifiers
 
 To learn about the basic idea of building tabular classifiers, please
-work thorugh the following online tutorial.
+work through the following online tutorial.
 
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
