@@ -9,7 +9,7 @@ to
 
 Most data science projecst follow a standard pattern.
 
-* selection of the data set. There are
+* selection of the data set. There are some possible options below.
 * exploratory data visualisations
 * building the classifier for churn prediction. This includes tuning the hyperparameters of the classifier. If the classes are imbalanced, then spacialised
 techniques need
@@ -18,8 +18,16 @@ techniques need
 
 ## Some tutorial about building classifiers
 
-To learn about the basic idea of building image classifiers, please
+To learn about the basic idea of building tabular classifiers, please
 work thorugh the following online tutorial.
 
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+
+
+## Churn datasets
+
+* [Credit Card Churn Prediction](https://www.kaggle.com/datasets/anwarsan/credit-card-bank-churn)
+* [Bank customer churn] (https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
+
+##  Background reading on machine learning
 
