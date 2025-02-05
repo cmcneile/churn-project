@@ -55,3 +55,7 @@ work through the following online tutorial.
 * [The Hundred-Page Machine Learning Book](https://themlbook.com/)
 * [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 
+
+## Some notes on model deployment
+
+* [How to put machine learning models into production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)
