@@ -50,5 +50,5 @@ work through the following online tutorial.
 ##  Background reading on machine learning
 
 * [The Hundred-Page Machine Learning Book](https://themlbook.com/)
-
+* [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 
