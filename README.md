@@ -35,5 +35,20 @@ work through the following online tutorial.
 * Explainability
 * Errors on the classifiers
 
+## Errors on the predictions 
+
+* Investigate the use of [Conformal prediction](https://en.wikipedia.org/wiki/Conformal_prediction) to compute the error on the classifier.
+* The [mapie library](https://mapie.readthedocs.io/en/latest/) implements conformal prediction.
+
+
+
+##  Background reading on churn
+
+*  [ChurnFM podcast on churn](https://www.churn.fm/)
+*  [Tutorial Customer Churn Prediction Using Machine Learning](https://medium.com/@allanouko17/customer-churn-prediction-using-machine-learning-ddf4cd7c9fd4)
+
 ##  Background reading on machine learning
+
+* [The Hundred-Page Machine Learning Book](https://themlbook.com/)
+
 
