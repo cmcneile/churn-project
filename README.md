@@ -56,6 +56,15 @@ work through the following online tutorial.
 * [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 
 
+##  The class imbalance problem
+
+The techniques to train classifiers have to be modified, if the number of examples of
+different classes are different sizes.
+
+*   [Review of Methods for Handling Class-Imbalanced in Classification Problems](https://arxiv.org/pdf/2211.05456)
+*   [imbalanced-learn documentation](https://imbalanced-learn.org/stable/index.html) A python library to deal with class imbalances.
+*   [Survey on deep learning with class imbalance](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5)
+
 ## Some notes on model deployment
 
 * [How to put machine learning models into production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)
